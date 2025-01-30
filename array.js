@@ -1,2 +1,8 @@
-movies = {"title": "The Dark Knight", "year": 2008, "director": "Christopher Nolan", "rating": 9.0}
-concole.log(movies[len])
+let fruits = ["apple", "orange", "mango", "banana"];
+console.log(fruits);
+
+console.log(fruits[0]);
+console.log(fruits[2]);
+
+console.log(fruits[4-1]);
+console.log(fruits[5-4])
