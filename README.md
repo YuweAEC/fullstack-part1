@@ -1,4 +1,4 @@
-# fullstack-part1
-My repo where I'm practising the full stack part , i.e, the node js
-##
-###
+# HOTEL BOOKING APP
+a full stack project to manage hotel booking 
+## Starting the project
+`node server.js` 
