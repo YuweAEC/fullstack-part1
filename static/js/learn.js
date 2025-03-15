@@ -1,0 +1,11 @@
+const elem = document.getElementById("main-container")
+console.log(elem)
+const elem1 = document.getElementsByTagName("div")
+console.log(elem1)
+const elem2 = document.getElementsByClassName("p")
+console.log(elem2)
+
+const elem3= document.querySelector("div .is-success")
+console.log(elem3)
+const elem4= document.querySelectorAll("div .button")
+console.log(elem4)
